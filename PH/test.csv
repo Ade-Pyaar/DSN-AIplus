@@ -1,0 +1,801 @@
+student_id,gender,race/ethnicity,parental level of education,lunch,test preparation course,parental_job_status,parental_wealth_classification
+810,female,group A,some college,standard,none,employed,middle class
+1609,female,,associate's degree,free/reduced,,employed,poor
+15,female,,some high school,,none,,middle class
+134,male,group D,,standard,none,employed,wealthy
+846,male,group C,associate's degree,standard,completed,employed,poor
+352,female,group B,,standard,completed,employed,poor
+1240,male,group C,master's degree,standard,completed,employed,poor
+600,male,group C,some high school,standard,,employed,
+1365,male,group C,some college,standard,completed,employed,middle class
+11,female,,associate's degree,,completed,,middle class
+333,male,group D,,standard,completed,employed,poor
+1524,female,group D,some college,standard,none,employed,poor
+216,female,group C,,standard,none,employed,middle class
+331,male,group B,,standard,none,employed,poor
+1670,male,,high school,standard,none,unemployed,middle class
+141,male,group C,,standard,none,employed,poor
+1668,male,,some high school,standard,none,unemployed,middle class
+1872,male,group A,some high school,free/reduced,none,employed,middle class
+744,male,group E,some college,standard,none,unemployed,middle class
+1429,female,group E,bachelor's degree,standard,none,employed,poor
+696,male,group E,some college,free/reduced,none,unemployed,middle class
+3,male,,some college,standard,none,,middle class
+1604,male,,bachelor's degree,standard,none,employed,middle class
+989,male,group A,some college,free/reduced,completed,unemployed,middle class
+645,female,group D,some college,standard,none,employed,poor
+1419,male,group C,some college,standard,completed,unemployed,middle class
+1500,male,group D,high school,standard,none,unemployed,middle class
+1267,female,group E,associate's degree,standard,none,employed,poor
+1287,male,group A,some college,standard,none,employed,wealthy
+606,female,group D,some college,free/reduced,,employed,
+1379,male,group B,some college,standard,none,employed,poor
+716,male,group D,some college,standard,none,employed,poor
+88,,group D,some high school,free/reduced,completed,employed,middle class
+492,male,group C,high school,,none,employed,poor
+1723,male,group C,high school,standard,none,employed,poor
+498,female,group E,associate's degree,,completed,employed,poor
+1943,male,group D,some high school,standard,completed,employed,poor
+1887,female,group D,associate's degree,standard,completed,employed,poor
+228,male,group C,,standard,none,employed,poor
+1033,male,group D,some high school,standard,none,employed,poor
+1317,female,group C,associate's degree,standard,none,unemployed,middle class
+1527,female,group D,bachelor's degree,standard,none,employed,middle class
+137,male,group D,,free/reduced,none,employed,middle class
+106,,group B,some college,standard,none,employed,poor
+28,male,,bachelor's degree,,none,employed,poor
+538,female,group B,some high school,,none,employed,
+615,female,group A,some college,free/reduced,,unemployed,middle class
+1629,female,,,standard,none,employed,middle class
+1381,male,group A,master's degree,free/reduced,none,employed,poor
+1997,male,group C,,free/reduced,none,employed,middle class
+1117,female,group E,associate's degree,standard,none,employed,poor
+156,male,group C,,free/reduced,none,employed,wealthy
+545,male,group C,master's degree,,,,
+1958,female,group D,some high school,free/reduced,completed,employed,middle class
+1702,male,,some college,standard,none,unemployed,wealthy
+1623,female,,,free/reduced,completed,employed,middle class
+293,male,group C,,free/reduced,completed,unemployed,middle class
+1467,male,group D,some high school,free/reduced,completed,employed,middle class
+1319,male,group C,high school,standard,none,unemployed,middle class
+527,female,group D,some college,,completed,employed,poor
+1640,male,,associate's degree,free/reduced,completed,employed,poor
+1260,male,group C,bachelor's degree,standard,none,employed,wealthy
+909,male,group C,some high school,,none,employed,poor
+511,female,group C,associate's degree,,none,employed,poor
+205,female,group A,,standard,completed,employed,middle class
+435,female,group D,some high school,,none,employed,poor
+1097,male,group C,some college,free/reduced,none,unemployed,middle class
+327,male,group B,,standard,completed,unemployed,middle class
+1625,female,,,standard,none,employed,poor
+879,female,group C,some high school,free/reduced,completed,employed,middle class
+845,male,group C,high school,free/reduced,none,employed,wealthy
+1540,male,group E,some college,standard,none,employed,poor
+730,male,group E,master's degree,standard,none,employed,wealthy
+1207,female,group E,bachelor's degree,free/reduced,completed,employed,middle class
+1916,male,group C,some high school,standard,completed,employed,poor
+921,female,group E,associate's degree,free/reduced,none,employed,middle class
+602,female,group C,bachelor's degree,standard,,employed,
+1637,male,,associate's degree,free/reduced,completed,unemployed,middle class
+1669,male,,associate's degree,standard,none,unemployed,middle class
+1283,male,group D,some college,free/reduced,none,unemployed,middle class
+388,male,group C,associate's degree,,none,unemployed,middle class
+1367,female,group E,bachelor's degree,standard,completed,employed,poor
+217,male,group D,,free/reduced,none,unemployed,middle class
+1529,male,group C,associate's degree,standard,none,employed,wealthy
+892,female,group E,bachelor's degree,free/reduced,none,employed,poor
+1701,male,,some college,standard,completed,employed,wealthy
+1698,male,,high school,free/reduced,none,unemployed,middle class
+1536,female,group D,some high school,standard,completed,employed,poor
+427,female,group D,some high school,,completed,employed,middle class
+1955,female,group D,some college,standard,completed,unemployed,middle class
+683,female,group B,some high school,standard,none,employed,poor
+456,male,group A,bachelor's degree,,completed,employed,poor
+33,female,,high school,standard,completed,employed,poor
+1784,male,group E,associate's degree,free/reduced,none,employed,poor
+1528,female,group E,some college,free/reduced,completed,employed,poor
+1214,male,group C,high school,free/reduced,completed,employed,middle class
+450,female,group B,some college,,none,employed,middle class
+905,male,group D,bachelor's degree,,none,employed,poor
+1166,female,group A,some high school,free/reduced,none,unemployed,middle class
+265,female,group C,,standard,none,employed,middle class
+981,male,group B,some college,free/reduced,none,employed,middle class
+740,female,group B,high school,free/reduced,completed,employed,poor
+955,male,group C,master's degree,standard,none,employed,poor
+741,female,group E,some college,standard,none,employed,poor
+56,,group D,some high school,standard,none,employed,middle class
+689,male,group D,associate's degree,free/reduced,completed,employed,poor
+1506,female,group D,master's degree,free/reduced,none,employed,middle class
+1486,female,group E,high school,standard,none,employed,wealthy
+1944,male,group B,some college,standard,none,employed,wealthy
+1590,male,group A,some high school,free/reduced,completed,employed,middle class
+1606,female,,high school,free/reduced,completed,unemployed,middle class
+1526,male,group B,high school,standard,none,unemployed,middle class
+1694,female,,some college,standard,none,employed,middle class
+1893,male,group B,associate's degree,free/reduced,none,employed,poor
+1718,female,group E,bachelor's degree,standard,completed,employed,poor
+121,,group C,some college,free/reduced,completed,employed,middle class
+518,male,group B,high school,,none,employed,middle class
+1113,female,group D,some college,standard,none,employed,middle class
+895,male,group D,some college,,none,unemployed,middle class
+1109,female,group C,high school,standard,none,unemployed,middle class
+294,male,group C,,free/reduced,completed,unemployed,middle class
+477,female,group C,some college,,completed,employed,poor
+226,female,group C,,standard,completed,employed,poor
+1082,male,group C,some college,standard,completed,unemployed,middle class
+1735,male,group C,some college,standard,none,unemployed,middle class
+578,male,group D,bachelor's degree,standard,,employed,
+835,female,group D,high school,standard,completed,unemployed,middle class
+340,male,group D,,free/reduced,none,unemployed,middle class
+1010,male,group A,master's degree,standard,completed,employed,poor
+954,female,group D,associate's degree,standard,completed,employed,middle class
+679,female,group B,some high school,standard,completed,employed,poor
+1062,female,group C,bachelor's degree,standard,none,employed,poor
+1112,male,group C,master's degree,free/reduced,completed,employed,middle class
+753,female,group B,some high school,standard,none,employed,middle class
+1930,male,group C,some college,free/reduced,completed,employed,middle class
+995,female,group A,bachelor's degree,standard,none,employed,poor
+475,female,group D,associate's degree,,completed,employed,middle class
+211,female,group E,,standard,completed,employed,poor
+1479,female,group B,bachelor's degree,free/reduced,none,employed,middle class
+1577,female,group C,some college,free/reduced,none,employed,middle class
+678,male,group C,high school,standard,none,employed,wealthy
+1895,female,group C,high school,standard,none,employed,middle class
+868,male,group C,associate's degree,standard,none,employed,poor
+1712,male,group C,some college,free/reduced,none,employed,middle class
+669,male,group C,bachelor's degree,free/reduced,none,employed,middle class
+1476,male,group D,associate's degree,standard,completed,employed,poor
+35,female,,master's degree,standard,completed,employed,poor
+1374,male,group C,some high school,standard,none,unemployed,middle class
+1697,female,,associate's degree,standard,none,employed,poor
+1989,male,group C,associate's degree,free/reduced,none,unemployed,middle class
+1960,male,group D,associate's degree,standard,completed,unemployed,middle class
+1588,male,group A,some college,standard,none,employed,wealthy
+314,female,group C,,standard,none,unemployed,middle class
+1199,female,group B,some college,standard,none,unemployed,middle class
+1067,female,group C,some high school,free/reduced,none,employed,middle class
+316,female,group C,,free/reduced,none,unemployed,middle class
+677,male,group D,high school,standard,none,employed,middle class
+725,female,group E,some college,standard,completed,employed,poor
+337,female,group C,,standard,none,employed,poor
+279,male,group D,,free/reduced,none,unemployed,middle class
+1660,male,,associate's degree,standard,completed,employed,poor
+543,female,group D,some college,,,,
+1765,female,group E,some college,standard,completed,employed,poor
+107,,group D,high school,free/reduced,none,unemployed,middle class
+79,,group C,bachelor's degree,standard,none,employed,poor
+1923,male,group A,some college,free/reduced,completed,unemployed,middle class
+1341,male,group D,some college,standard,completed,employed,poor
+366,male,group B,some high school,,none,employed,wealthy
+553,female,group A,associate's degree,,,,
+251,male,group B,,free/reduced,none,unemployed,middle class
+1761,male,group C,some college,free/reduced,completed,employed,poor
+1108,male,group B,associate's degree,standard,completed,employed,middle class
+1333,male,group C,some college,standard,none,employed,wealthy
+1389,male,group D,some high school,free/reduced,completed,employed,poor
+1565,male,group C,some high school,standard,completed,unemployed,middle class
+1794,female,group E,high school,standard,none,employed,middle class
+1831,female,group C,high school,free/reduced,none,unemployed,middle class
+855,female,group E,some college,standard,completed,employed,poor
+1993,male,group B,,standard,completed,employed,poor
+928,female,group B,master's degree,free/reduced,none,employed,middle class
+948,male,group C,high school,standard,completed,employed,poor
+1786,male,group C,bachelor's degree,free/reduced,none,employed,middle class
+1138,male,group D,some high school,standard,completed,unemployed,middle class
+926,female,group B,some high school,standard,none,unemployed,middle class
+814,male,group D,associate's degree,standard,none,unemployed,middle class
+188,female,group C,,standard,none,employed,poor
+278,male,group C,,standard,none,employed,poor
+1654,male,,master's degree,standard,none,employed,poor
+1433,female,group C,associate's degree,free/reduced,none,employed,middle class
+1026,female,group C,some high school,standard,none,employed,middle class
+209,male,group A,,standard,completed,employed,poor
+387,male,group B,some high school,,none,unemployed,middle class
+1344,female,group C,high school,free/reduced,completed,employed,middle class
+253,male,group A,,free/reduced,none,unemployed,middle class
+1132,male,group C,associate's degree,free/reduced,completed,employed,middle class
+18,male,,associate's degree,,completed,,wealthy
+371,male,group C,associate's degree,,completed,employed,poor
+763,female,group C,bachelor's degree,standard,none,employed,middle class
+1080,male,group C,associate's degree,standard,none,employed,wealthy
+322,female,group A,,free/reduced,none,employed,middle class
+1354,male,group C,some high school,standard,none,unemployed,middle class
+572,female,group D,some high school,free/reduced,,employed,
+1815,female,group E,some college,standard,none,unemployed,middle class
+1790,male,group C,master's degree,free/reduced,completed,employed,poor
+767,female,group B,high school,free/reduced,none,employed,middle class
+813,male,group E,some college,standard,completed,employed,wealthy
+1851,male,group D,bachelor's degree,free/reduced,completed,unemployed,middle class
+570,male,group D,bachelor's degree,standard,,employed,
+218,male,group A,,free/reduced,none,unemployed,middle class
+335,female,group D,,free/reduced,completed,employed,middle class
+1924,female,group A,high school,standard,completed,employed,middle class
+650,female,group D,associate's degree,standard,completed,employed,middle class
+625,female,group B,master's degree,standard,none,unemployed,middle class
+688,female,group D,some college,free/reduced,none,employed,poor
+305,male,group D,,standard,none,unemployed,middle class
+1678,female,,associate's degree,free/reduced,none,employed,middle class
+515,male,group B,bachelor's degree,,none,unemployed,middle class
+10,female,,some high school,,none,,poor
+39,male,,bachelor's degree,standard,completed,employed,poor
+5,female,,bachelor's degree,,none,,middle class
+1935,female,group C,associate's degree,standard,none,employed,poor
+552,female,group D,high school,,,,
+1135,female,group C,associate's degree,standard,none,employed,poor
+459,male,group D,some high school,,none,unemployed,middle class
+700,male,group D,bachelor's degree,standard,none,unemployed,middle class
+1175,male,group C,some high school,free/reduced,none,employed,middle class
+17,male,,associate's degree,,none,,middle class
+1767,female,group B,master's degree,free/reduced,none,unemployed,middle class
+1005,male,group A,high school,standard,completed,employed,wealthy
+1226,male,group C,some high school,free/reduced,completed,unemployed,middle class
+1728,male,group E,high school,standard,completed,employed,poor
+1868,male,group E,bachelor's degree,free/reduced,none,employed,poor
+408,female,group B,some college,,none,employed,poor
+1845,female,group E,some college,standard,completed,employed,poor
+526,female,group E,some college,,completed,employed,poor
+1439,female,group D,high school,free/reduced,none,employed,middle class
+1656,female,,high school,standard,completed,employed,poor
+568,female,group C,some college,standard,,employed,
+1434,female,group E,associate's degree,standard,completed,employed,poor
+373,male,group D,some college,,none,unemployed,middle class
+1122,male,group C,master's degree,free/reduced,completed,employed,middle class
+1987,male,group D,some college,standard,none,unemployed,middle class
+1126,female,group D,associate's degree,standard,none,employed,middle class
+1507,male,group C,some college,standard,completed,unemployed,middle class
+861,male,group B,some high school,standard,none,unemployed,middle class
+1747,male,group B,high school,standard,none,employed,wealthy
+1826,female,group B,some high school,standard,none,employed,middle class
+165,male,group C,,standard,none,employed,poor
+1364,male,group D,high school,free/reduced,completed,employed,poor
+773,female,group E,associate's degree,standard,completed,employed,poor
+1160,male,group B,bachelor's degree,free/reduced,completed,employed,middle class
+1961,male,group C,high school,free/reduced,none,unemployed,middle class
+1583,male,group B,some college,standard,none,unemployed,middle class
+1406,female,group A,associate's degree,standard,completed,employed,poor
+630,female,group B,associate's degree,standard,completed,employed,middle class
+328,female,group B,,standard,none,unemployed,middle class
+187,female,group B,,standard,none,employed,poor
+1971,female,group C,high school,free/reduced,none,employed,middle class
+1951,female,group D,high school,standard,none,employed,middle class
+658,female,group C,some college,standard,none,employed,middle class
+54,,group C,some college,standard,completed,employed,middle class
+197,male,group E,,standard,none,employed,wealthy
+1331,male,group E,some high school,standard,completed,employed,wealthy
+113,,group C,high school,standard,completed,employed,middle class
+411,female,group A,high school,,none,unemployed,middle class
+601,female,group E,high school,free/reduced,,employed,
+473,female,group C,some college,,none,employed,middle class
+1321,male,group E,high school,standard,none,unemployed,wealthy
+1969,female,group B,associate's degree,standard,none,employed,poor
+362,male,group D,high school,,none,employed,middle class
+1931,male,group C,bachelor's degree,standard,none,employed,middle class
+1382,male,group A,some high school,free/reduced,completed,employed,middle class
+950,male,group B,associate's degree,standard,none,employed,middle class
+105,,group C,some college,free/reduced,none,unemployed,middle class
+1234,male,group A,some college,standard,completed,employed,poor
+920,male,group C,high school,standard,completed,employed,middle class
+433,male,group D,associate's degree,,none,unemployed,middle class
+586,female,group B,master's degree,free/reduced,,employed,
+836,male,group D,some college,standard,none,employed,poor
+1927,female,group A,some college,standard,completed,employed,middle class
+1369,male,group D,associate's degree,standard,none,employed,poor
+1596,female,,high school,,none,unemployed,middle class
+277,male,group C,,standard,none,unemployed,middle class
+1282,male,group C,some high school,standard,none,employed,poor
+867,female,group D,associate's degree,free/reduced,none,employed,middle class
+1206,male,group D,some college,standard,none,employed,middle class
+718,male,group B,high school,standard,none,unemployed,wealthy
+75,,group E,some high school,standard,completed,employed,wealthy
+1977,male,group D,bachelor's degree,standard,none,employed,middle class
+1335,male,group A,some college,standard,none,employed,wealthy
+673,female,group B,some college,free/reduced,completed,employed,middle class
+363,female,group C,some college,,none,employed,poor
+182,male,group C,,standard,none,employed,wealthy
+1553,female,group C,bachelor's degree,free/reduced,completed,unemployed,middle class
+444,male,group D,some college,,none,employed,poor
+1086,male,group E,some high school,standard,none,employed,wealthy
+607,male,group A,some college,standard,,employed,
+1019,female,group A,high school,standard,none,employed,wealthy
+1708,male,group B,some high school,free/reduced,none,employed,middle class
+1182,female,group C,some high school,free/reduced,completed,employed,middle class
+144,male,group D,,standard,none,employed,wealthy
+329,female,group B,,free/reduced,completed,unemployed,middle class
+394,female,group C,some high school,,none,employed,poor
+469,male,group C,bachelor's degree,,none,employed,poor
+1769,male,group A,some high school,standard,none,unemployed,middle class
+1543,male,group D,some high school,free/reduced,none,unemployed,middle class
+884,male,group D,high school,standard,none,employed,wealthy
+157,female,group C,,standard,completed,employed,middle class
+1006,female,group B,bachelor's degree,free/reduced,none,unemployed,middle class
+1627,male,,,standard,completed,employed,poor
+1795,male,group B,associate's degree,free/reduced,completed,unemployed,middle class
+1251,female,group D,some high school,standard,completed,employed,poor
+711,female,group C,high school,free/reduced,completed,employed,middle class
+1503,female,group A,some college,standard,none,employed,middle class
+355,female,group D,high school,,none,employed,poor
+1805,male,group B,bachelor's degree,standard,completed,employed,poor
+1576,male,group B,master's degree,standard,none,employed,poor
+695,male,group D,high school,free/reduced,none,employed,middle class
+780,female,group E,some high school,free/reduced,none,employed,poor
+873,female,group E,bachelor's degree,standard,completed,employed,poor
+1921,male,group D,master's degree,standard,none,unemployed,middle class
+1048,male,group A,high school,standard,completed,unemployed,middle class
+519,male,group D,some college,,completed,unemployed,middle class
+1615,male,,,standard,,employed,middle class
+899,male,group C,some college,,none,employed,wealthy
+292,male,group C,,free/reduced,none,unemployed,middle class
+1275,female,group C,high school,standard,none,employed,poor
+274,female,group D,,standard,none,employed,middle class
+229,male,group E,,free/reduced,none,employed,wealthy
+800,male,group E,some college,free/reduced,none,employed,wealthy
+738,male,group D,high school,standard,none,employed,poor
+1188,female,group B,some college,standard,none,employed,middle class
+437,female,group B,high school,,none,employed,middle class
+635,male,group B,some college,free/reduced,none,unemployed,middle class
+857,male,group E,high school,standard,none,employed,wealthy
+443,female,group C,some college,,none,employed,middle class
+1232,female,group E,master's degree,standard,none,employed,poor
+750,male,group D,bachelor's degree,free/reduced,none,employed,poor
+1614,female,,some high school,free/reduced,,employed,middle class
+1185,male,group A,associate's degree,free/reduced,none,unemployed,middle class
+260,male,group C,,standard,none,unemployed,middle class
+422,male,group D,master's degree,,none,employed,wealthy
+51,,group B,some high school,standard,none,employed,middle class
+224,female,group D,,standard,none,employed,poor
+297,male,group C,,free/reduced,completed,unemployed,middle class
+1657,female,,associate's degree,standard,none,employed,middle class
+286,male,group E,,standard,none,employed,wealthy
+318,male,group E,,free/reduced,none,unemployed,middle class
+1548,female,group D,bachelor's degree,free/reduced,none,employed,middle class
+1269,female,group B,associate's degree,standard,none,employed,poor
+762,female,group C,master's degree,free/reduced,completed,employed,poor
+1497,female,group E,high school,free/reduced,none,employed,middle class
+656,female,group B,associate's degree,standard,none,unemployed,middle class
+269,male,group A,,free/reduced,none,unemployed,middle class
+1663,female,,high school,free/reduced,none,employed,wealthy
+1492,female,group C,high school,standard,none,employed,middle class
+1793,male,group E,high school,standard,none,employed,wealthy
+698,female,group C,associate's degree,free/reduced,none,employed,poor
+595,male,group B,associate's degree,standard,,unemployed,
+379,female,group D,some high school,,none,employed,poor
+50,,group C,bachelor's degree,standard,none,employed,wealthy
+153,female,group E,,standard,none,employed,middle class
+129,male,group C,,free/reduced,completed,employed,poor
+169,male,group C,,standard,none,employed,wealthy
+1549,female,group C,master's degree,standard,none,employed,poor
+1154,female,group E,some college,standard,none,employed,poor
+24,male,,associate's degree,,none,unemployed,middle class
+1652,female,,some high school,standard,none,employed,middle class
+1681,male,,some college,standard,none,employed,poor
+406,male,group B,bachelor's degree,,none,unemployed,middle class
+1859,male,group C,associate's degree,standard,completed,employed,wealthy
+1559,female,group B,master's degree,standard,none,employed,middle class
+1157,female,group C,high school,free/reduced,none,employed,middle class
+692,female,group A,some high school,standard,none,employed,middle class
+1953,male,group C,master's degree,free/reduced,none,employed,poor
+1278,female,group C,high school,standard,completed,employed,middle class
+596,female,group C,some college,free/reduced,,employed,
+503,male,group C,bachelor's degree,,none,unemployed,middle class
+785,female,group E,high school,standard,none,employed,middle class
+1450,male,group C,associate's degree,free/reduced,none,unemployed,middle class
+1314,female,group B,some high school,standard,completed,employed,poor
+377,male,group C,associate's degree,,none,employed,middle class
+133,female,group C,,standard,completed,employed,poor
+266,male,group C,,standard,none,employed,poor
+781,male,group B,some college,free/reduced,none,unemployed,middle class
+1270,male,group B,some high school,standard,none,unemployed,middle class
+9,male,,some high school,,none,,poor
+1950,male,group C,some high school,standard,none,employed,poor
+1172,female,group D,associate's degree,standard,none,employed,poor
+392,male,group D,high school,,none,unemployed,middle class
+889,male,group D,bachelor's degree,standard,completed,employed,poor
+1496,male,group B,high school,free/reduced,none,employed,middle class
+267,female,group E,,standard,completed,employed,poor
+1912,male,group C,some high school,standard,none,employed,middle class
+1724,male,group B,bachelor's degree,standard,none,employed,wealthy
+649,female,group B,some college,free/reduced,completed,employed,poor
+817,male,group C,some college,free/reduced,completed,employed,wealthy
+1079,male,group B,associate's degree,standard,none,employed,poor
+304,male,group A,,standard,completed,employed,poor
+1231,female,group C,bachelor's degree,standard,none,unemployed,middle class
+576,female,group A,some college,free/reduced,,employed,
+472,female,group C,associate's degree,,none,employed,poor
+1219,male,group B,master's degree,free/reduced,none,unemployed,middle class
+1956,male,group C,some high school,free/reduced,none,unemployed,middle class
+1277,female,group D,high school,free/reduced,completed,employed,middle class
+1802,male,group C,bachelor's degree,free/reduced,none,employed,poor
+1261,male,group C,associate's degree,standard,none,employed,poor
+198,female,group C,,standard,completed,employed,middle class
+1246,male,group C,associate's degree,standard,none,employed,poor
+158,male,group C,,standard,none,employed,wealthy
+1294,female,group D,associate's degree,standard,completed,employed,poor
+1352,male,group D,bachelor's degree,free/reduced,none,employed,wealthy
+45,male,,associate's degree,free/reduced,none,employed,middle class
+1557,female,group C,some high school,standard,completed,employed,middle class
+598,female,group B,some college,standard,,employed,
+308,female,group D,,standard,none,employed,middle class
+163,female,group C,,free/reduced,completed,employed,poor
+1515,male,group C,some high school,free/reduced,none,employed,wealthy
+983,male,group C,associate's degree,free/reduced,none,unemployed,middle class
+1853,male,group B,some college,free/reduced,none,unemployed,middle class
+513,female,group C,some high school,,none,unemployed,middle class
+1644,male,,high school,standard,completed,employed,poor
+1415,female,group C,some college,free/reduced,none,unemployed,middle class
+978,male,group C,high school,standard,completed,employed,middle class
+190,male,group B,,standard,none,unemployed,middle class
+818,male,group D,some college,standard,none,employed,poor
+1819,male,group D,some high school,standard,completed,employed,poor
+751,female,group B,high school,standard,completed,employed,middle class
+1964,male,group D,some college,standard,none,employed,poor
+765,female,group C,some college,free/reduced,completed,employed,middle class
+1941,female,group E,associate's degree,free/reduced,completed,employed,poor
+821,male,group D,some college,free/reduced,none,unemployed,middle class
+1396,male,group B,some college,standard,none,unemployed,middle class
+431,male,group C,some high school,,none,unemployed,middle class
+1861,male,group D,some college,free/reduced,none,unemployed,middle class
+1947,female,group C,bachelor's degree,standard,none,employed,middle class
+280,female,group C,,standard,none,employed,middle class
+1582,male,group E,some high school,standard,none,employed,poor
+653,male,group C,associate's degree,free/reduced,completed,employed,poor
+709,male,group D,some college,standard,none,employed,poor
+1466,male,group D,some college,free/reduced,completed,employed,poor
+1133,female,group B,high school,standard,none,employed,middle class
+900,male,group B,bachelor's degree,,completed,employed,poor
+953,male,group C,associate's degree,standard,completed,employed,wealthy
+859,female,group B,associate's degree,free/reduced,completed,employed,poor
+396,male,group B,some high school,,none,employed,middle class
+1345,male,group B,high school,standard,none,unemployed,middle class
+1764,female,group C,some college,standard,none,unemployed,middle class
+682,male,group C,master's degree,standard,none,employed,wealthy
+973,female,group D,some high school,standard,completed,employed,poor
+20,male,,associate's degree,,none,,poor
+307,female,group B,,standard,completed,employed,middle class
+1789,female,group C,some college,standard,none,employed,middle class
+1821,male,group C,some college,free/reduced,none,unemployed,middle class
+1758,male,group A,some high school,standard,none,unemployed,middle class
+517,male,group D,some high school,,none,unemployed,middle class
+1072,male,group D,bachelor's degree,standard,completed,employed,poor
+393,male,group D,some college,,none,employed,poor
+637,female,group E,bachelor's degree,free/reduced,none,employed,middle class
+1015,female,group B,master's degree,standard,none,employed,poor
+77,,group B,high school,standard,none,employed,middle class
+925,male,group A,high school,free/reduced,completed,unemployed,middle class
+776,male,group C,bachelor's degree,standard,none,employed,poor
+1628,female,,,standard,completed,employed,middle class
+1556,male,group C,associate's degree,standard,none,employed,poor
+815,male,group B,some college,standard,none,employed,poor
+1991,male,group E,,standard,none,employed,wealthy
+1566,male,group C,some college,standard,none,employed,poor
+61,,group D,high school,free/reduced,none,unemployed,middle class
+686,female,group C,high school,free/reduced,none,unemployed,middle class
+195,male,group C,,standard,completed,employed,poor
+180,male,group D,,standard,completed,unemployed,middle class
+1349,female,group C,associate's degree,standard,none,employed,middle class
+1053,female,group E,bachelor's degree,free/reduced,completed,employed,poor
+215,female,group C,,standard,none,unemployed,middle class
+1003,male,group C,associate's degree,free/reduced,completed,employed,middle class
+164,female,group C,,standard,completed,unemployed,middle class
+1350,male,group B,associate's degree,standard,completed,employed,middle class
+1798,female,group D,some college,standard,completed,employed,middle class
+34,female,,some college,standard,none,employed,poor
+1363,female,group B,some college,standard,none,unemployed,middle class
+233,female,group C,,free/reduced,none,employed,middle class
+937,female,group B,associate's degree,standard,none,employed,middle class
+212,male,group E,,standard,completed,unemployed,middle class
+1306,male,group D,some high school,free/reduced,completed,unemployed,middle class
+92,,group B,high school,standard,none,unemployed,middle class
+416,male,group C,some college,,completed,employed,poor
+1308,female,group C,some high school,standard,none,employed,middle class
+1626,male,,,standard,completed,employed,poor
+655,male,group E,some college,standard,none,unemployed,wealthy
+1208,male,group B,some high school,standard,none,unemployed,middle class
+1386,male,group D,some college,free/reduced,completed,unemployed,middle class
+70,,group D,high school,standard,none,unemployed,middle class
+1266,female,group A,some college,free/reduced,none,employed,middle class
+151,male,group A,,free/reduced,completed,employed,middle class
+1575,male,group A,some high school,standard,none,employed,poor
+719,female,group D,high school,standard,completed,employed,middle class
+99,,group D,some high school,standard,completed,employed,middle class
+49,,group D,some college,free/reduced,none,unemployed,middle class
+1242,female,group B,some college,free/reduced,none,employed,poor
+264,female,group A,,standard,none,unemployed,middle class
+1104,male,group C,some college,free/reduced,completed,employed,middle class
+1064,female,group E,some college,standard,none,employed,middle class
+708,male,group A,master's degree,free/reduced,completed,unemployed,middle class
+1666,female,,associate's degree,standard,none,employed,middle class
+19,male,,some college,,none,,poor
+236,female,group B,,free/reduced,completed,unemployed,middle class
+897,female,group D,some college,,completed,employed,middle class
+1145,female,group E,some college,standard,none,employed,poor
+976,male,group B,some college,standard,none,unemployed,middle class
+1052,female,group E,some college,standard,none,employed,middle class
+1671,male,,some college,standard,completed,employed,wealthy
+1986,female,group D,some high school,standard,none,employed,poor
+1783,male,group D,some college,standard,completed,employed,poor
+132,female,group E,,free/reduced,none,employed,middle class
+1742,male,group C,some college,standard,completed,employed,poor
+660,female,group D,high school,standard,none,employed,middle class
+1336,male,group A,bachelor's degree,standard,none,unemployed,middle class
+1494,male,group D,some high school,free/reduced,none,employed,poor
+1087,female,group C,high school,standard,none,employed,poor
+549,male,group E,associate's degree,,,,
+883,male,group B,some college,standard,completed,employed,poor
+1323,male,group D,associate's degree,standard,none,employed,poor
+662,male,group D,some college,standard,completed,employed,poor
+1699,female,,associate's degree,standard,completed,employed,poor
+1445,female,group A,associate's degree,standard,none,employed,middle class
+1355,female,group C,some college,free/reduced,completed,unemployed,middle class
+1684,male,,high school,free/reduced,completed,employed,middle class
+1164,female,group A,associate's degree,standard,none,employed,poor
+398,male,group C,some college,,none,employed,poor
+465,female,group C,some college,,none,employed,middle class
+389,female,group C,some college,,completed,employed,poor
+597,male,group B,master's degree,standard,,unemployed,
+1483,male,group E,high school,standard,completed,employed,poor
+1059,male,group B,some high school,standard,none,employed,middle class
+1661,male,,associate's degree,standard,none,employed,wealthy
+438,female,group B,some high school,,none,unemployed,middle class
+1679,male,,bachelor's degree,free/reduced,completed,employed,poor
+200,male,group D,,standard,none,employed,wealthy
+1856,female,group B,some high school,free/reduced,none,unemployed,middle class
+1796,male,group E,some college,standard,none,unemployed,middle class
+136,female,group E,,standard,completed,employed,poor
+1141,male,group B,associate's degree,standard,none,unemployed,middle class
+1030,female,group D,some high school,free/reduced,none,employed,middle class
+1404,female,group D,master's degree,standard,none,employed,poor
+636,female,group D,associate's degree,standard,completed,employed,poor
+1143,male,group D,high school,standard,none,unemployed,wealthy
+189,female,group D,,standard,completed,employed,poor
+1797,male,group B,high school,standard,none,employed,middle class
+1142,female,group C,some high school,free/reduced,completed,employed,poor
+1662,male,,some high school,standard,none,employed,middle class
+1729,male,group C,some college,standard,none,employed,poor
+779,female,group E,high school,standard,none,employed,poor
+1427,male,group C,some college,standard,none,unemployed,middle class
+1752,female,group C,some high school,standard,none,employed,poor
+628,female,group C,master's degree,standard,completed,employed,poor
+112,,group C,master's degree,standard,none,employed,poor
+569,female,group E,high school,free/reduced,,employed,
+1814,male,group A,high school,standard,completed,employed,wealthy
+95,,group D,high school,standard,completed,employed,middle class
+451,female,group D,bachelor's degree,,none,employed,middle class
+1340,male,group D,associate's degree,free/reduced,completed,employed,poor
+1866,male,group A,associate's degree,standard,none,unemployed,middle class
+1426,female,group C,high school,standard,completed,employed,middle class
+974,male,group C,associate's degree,free/reduced,none,employed,middle class
+434,male,group C,some college,,completed,employed,poor
+971,female,group A,associate's degree,standard,none,employed,poor
+494,male,group A,master's degree,,none,employed,wealthy
+1855,female,group D,some high school,free/reduced,completed,employed,poor
+919,female,group C,some college,standard,none,employed,middle class
+87,,group E,associate's degree,standard,none,employed,poor
+1889,female,group B,associate's degree,free/reduced,none,employed,middle class
+1167,female,group D,some college,standard,completed,employed,poor
+1498,female,group E,some college,standard,none,employed,poor
+555,male,group D,some college,,,,
+464,female,group D,high school,,completed,employed,middle class
+508,female,group D,bachelor's degree,,none,employed,poor
+48,,group E,master's degree,standard,completed,employed,poor
+1902,female,group C,high school,free/reduced,completed,unemployed,middle class
+798,female,group D,some college,standard,completed,employed,poor
+210,male,group B,,standard,none,employed,middle class
+1762,female,group D,some high school,free/reduced,none,unemployed,middle class
+1578,female,group D,bachelor's degree,standard,none,employed,poor
+827,female,group C,some college,free/reduced,none,employed,poor
+1299,female,group D,high school,free/reduced,none,employed,middle class
+1181,male,group D,some high school,free/reduced,completed,employed,poor
+590,female,group E,some high school,standard,,unemployed,
+1130,female,group E,associate's degree,standard,completed,employed,poor
+1934,male,group C,high school,standard,none,employed,middle class
+1840,male,group C,some college,free/reduced,none,employed,wealthy
+96,,group E,some high school,standard,none,employed,middle class
+1936,female,group C,some high school,standard,none,employed,middle class
+270,male,group C,,standard,completed,employed,poor
+858,female,group D,bachelor's degree,standard,none,employed,middle class
+1399,male,group B,bachelor's degree,standard,none,employed,poor
+828,female,group E,high school,free/reduced,none,employed,middle class
+1597,male,,associate's degree,,none,employed,middle class
+834,male,group B,some college,standard,completed,employed,poor
+1816,female,group D,some high school,standard,none,employed,middle class
+961,male,group B,some high school,free/reduced,none,employed,middle class
+1443,female,group E,high school,free/reduced,completed,employed,middle class
+285,female,group C,,standard,none,employed,middle class
+558,male,group A,some high school,standard,,,
+1106,female,group D,master's degree,standard,none,employed,poor
+685,male,group B,some college,standard,none,unemployed,middle class
+1244,male,group D,some high school,standard,none,unemployed,middle class
+1452,male,group C,master's degree,standard,none,employed,poor
+1198,female,group B,bachelor's degree,standard,none,employed,middle class
+621,male,group B,master's degree,standard,,employed,poor
+1220,male,group E,associate's degree,standard,none,unemployed,middle class
+1418,male,group C,associate's degree,standard,none,unemployed,middle class
+524,female,group D,some high school,,completed,employed,poor
+720,female,group D,some college,standard,completed,employed,middle class
+608,male,group B,associate's degree,standard,,employed,
+661,male,group B,some college,standard,completed,employed,middle class
+149,female,group E,,standard,completed,employed,poor
+168,female,group E,,standard,completed,employed,poor
+1057,female,group A,associate's degree,standard,none,employed,poor
+301,male,group E,,free/reduced,none,unemployed,middle class
+407,female,group C,high school,,completed,employed,poor
+1725,male,group D,bachelor's degree,free/reduced,none,unemployed,middle class
+234,male,group A,,standard,completed,employed,poor
+2,male,,some college,standard,completed,employed,middle class
+723,male,group E,master's degree,standard,none,employed,poor
+1478,female,group B,high school,free/reduced,none,employed,middle class
+1187,female,group B,some college,standard,completed,employed,middle class
+491,female,group B,associate's degree,,none,unemployed,middle class
+38,male,,some college,standard,completed,employed,middle class
+412,male,group B,some high school,,none,employed,middle class
+291,female,group B,,standard,none,employed,middle class
+1375,female,group C,associate's degree,standard,completed,unemployed,middle class
+1980,female,group B,bachelor's degree,standard,completed,unemployed,middle class
+1090,male,group B,master's degree,standard,completed,employed,poor
+1555,female,group B,high school,free/reduced,none,employed,middle class
+684,female,group C,some college,standard,completed,employed,poor
+1634,male,,some college,standard,none,unemployed,middle class
+699,male,group D,high school,standard,none,employed,poor
+488,male,group B,associate's degree,,none,employed,poor
+996,female,group B,associate's degree,free/reduced,completed,employed,middle class
+263,male,group D,,standard,completed,employed,poor
+1975,male,group C,some high school,standard,completed,unemployed,middle class
+1348,male,group C,bachelor's degree,standard,none,employed,poor
+1502,male,group C,bachelor's degree,free/reduced,none,employed,middle class
+290,male,group C,,standard,none,unemployed,middle class
+787,male,group C,master's degree,free/reduced,completed,employed,poor
+644,male,group E,high school,standard,none,employed,poor
+851,male,group C,some college,free/reduced,none,unemployed,middle class
+1744,male,group C,some college,free/reduced,none,unemployed,middle class
+691,male,group D,master's degree,standard,completed,employed,poor
+1869,male,group D,master's degree,free/reduced,none,employed,poor
+1139,female,group C,some college,free/reduced,none,unemployed,middle class
+1822,female,group C,master's degree,standard,none,unemployed,middle class
+201,male,group E,,standard,none,employed,wealthy
+1703,female,,some college,free/reduced,none,employed,middle class
+731,male,group A,some college,standard,completed,employed,poor
+66,,group D,some college,standard,none,employed,poor
+521,male,group D,some college,,completed,employed,poor
+1216,female,group C,high school,free/reduced,none,employed,poor
+60,,group C,associate's degree,free/reduced,none,employed,poor
+1380,female,group C,high school,free/reduced,none,unemployed,middle class
+560,female,group B,master's degree,standard,,,
+1518,male,group D,some college,standard,none,employed,poor
+172,male,group E,,standard,completed,employed,poor
+1976,female,group B,high school,standard,none,employed,middle class
+58,,group B,some college,free/reduced,none,employed,middle class
+55,,group D,high school,standard,completed,employed,poor
+311,male,group E,,standard,none,unemployed,middle class
+1516,female,group D,some college,standard,none,employed,poor
+471,male,group C,associate's degree,,none,employed,wealthy
+542,female,group D,high school,,,unemployed,
+1236,female,group D,some high school,free/reduced,none,employed,middle class
+505,male,group E,some college,,completed,employed,poor
+885,male,group B,high school,free/reduced,completed,employed,middle class
+1704,female,,associate's degree,free/reduced,completed,employed,poor
+1736,male,group D,some high school,standard,none,unemployed,middle class
+872,female,group E,some college,free/reduced,none,employed,poor
+768,male,group C,some high school,standard,none,unemployed,middle class
+562,female,group D,associate's degree,free/reduced,,,
+1147,male,group C,associate's degree,standard,none,unemployed,middle class
+1787,female,group C,bachelor's degree,free/reduced,none,employed,poor
+1351,male,group E,associate's degree,free/reduced,none,employed,poor
+1029,female,group C,some high school,free/reduced,completed,unemployed,middle class
+758,male,group E,high school,standard,none,unemployed,middle class
+1228,female,group C,high school,free/reduced,completed,employed,middle class
+1218,female,group C,some high school,free/reduced,none,employed,middle class
+1263,male,group D,master's degree,standard,none,employed,middle class
+1307,female,group C,some high school,free/reduced,none,employed,middle class
+57,,group B,associate's degree,standard,none,employed,poor
+179,male,group B,,free/reduced,none,employed,wealthy
+1763,male,group D,associate's degree,standard,completed,employed,poor
+185,male,group D,,free/reduced,completed,unemployed,middle class
+26,male,,high school,,none,unemployed,middle class
+1343,female,group C,some college,standard,none,employed,poor
+564,male,group C,associate's degree,free/reduced,,,
+805,female,group E,master's degree,free/reduced,none,employed,poor
+1499,male,group D,some college,free/reduced,completed,unemployed,middle class
+1639,female,,high school,standard,none,employed,middle class
+108,,group B,associate's degree,standard,none,employed,middle class
+1899,female,group D,high school,standard,none,employed,poor
+1714,female,group D,some high school,standard,none,employed,poor
+963,male,group C,high school,standard,none,employed,middle class
+347,female,group B,,free/reduced,none,employed,middle class
+415,female,group B,high school,,none,employed,middle class
+1957,male,group E,associate's degree,free/reduced,none,employed,poor
+111,,group E,bachelor's degree,standard,none,employed,poor
+1809,female,group D,some high school,free/reduced,completed,employed,middle class
+1076,male,group B,high school,standard,none,unemployed,middle class
+1839,female,group C,some high school,free/reduced,completed,employed,middle class
+1574,male,group D,some high school,standard,completed,employed,poor
+1774,female,group D,some high school,standard,none,employed,middle class
+567,male,group C,high school,free/reduced,,,
+1200,female,group C,high school,free/reduced,completed,employed,middle class
+1413,male,group B,some college,standard,completed,employed,poor
+671,female,group D,some high school,free/reduced,none,employed,middle class
+1093,female,group C,some college,standard,none,unemployed,middle class
+1473,male,group C,bachelor's degree,free/reduced,none,employed,middle class
+62,,group B,associate's degree,free/reduced,none,unemployed,middle class
+687,female,group B,some high school,free/reduced,none,unemployed,middle class
+1982,male,group D,associate's degree,standard,completed,employed,poor
+1648,female,,bachelor's degree,free/reduced,none,employed,poor
+484,male,group C,some high school,,none,employed,middle class
+1534,female,group D,high school,standard,completed,employed,poor
+512,male,group C,some college,,completed,employed,poor
+1696,male,,some college,free/reduced,completed,unemployed,middle class
+982,female,group C,high school,standard,none,employed,poor
+1643,male,,associate's degree,standard,none,unemployed,middle class
+1938,female,group B,some high school,free/reduced,completed,employed,middle class
+640,female,group C,associate's degree,free/reduced,none,employed,middle class
+1521,male,group C,associate's degree,standard,none,employed,wealthy
+1741,female,group A,associate's degree,standard,none,employed,middle class
+203,female,group B,,free/reduced,completed,employed,middle class
+152,female,group B,,standard,none,employed,middle class
+1692,male,,some college,standard,none,employed,middle class
+1081,male,group C,some college,free/reduced,completed,employed,poor
+935,male,group C,some high school,standard,none,employed,middle class
+847,male,group C,master's degree,standard,completed,employed,poor
+82,,group B,some high school,standard,completed,employed,middle class
+1238,female,group C,some college,free/reduced,none,employed,middle class
+1121,female,group D,high school,standard,completed,employed,middle class
+531,female,group E,master's degree,,completed,employed,poor
+907,female,group D,bachelor's degree,,none,employed,poor
+761,female,group B,some college,standard,none,employed,poor
+938,male,group D,associate's degree,free/reduced,none,unemployed,middle class
+999,female,group B,some high school,free/reduced,none,unemployed,middle class
+670,male,group D,some college,standard,completed,employed,poor
+30,female,,bachelor's degree,,none,employed,middle class
+489,male,group D,some high school,,none,employed,poor
+1295,female,group E,some college,standard,none,employed,poor
+979,male,group D,associate's degree,standard,completed,employed,poor
+1241,female,group C,some college,standard,none,unemployed,middle class
+78,,group B,high school,standard,none,employed,poor
+454,male,group E,some high school,,none,employed,middle class
+991,male,group B,high school,standard,completed,employed,poor
+563,female,group D,some college,standard,,,
+1651,male,,some college,free/reduced,completed,employed,poor
+44,male,,associate's degree,standard,none,unemployed,middle class
+1563,female,group D,high school,free/reduced,none,employed,middle class
+1525,female,group C,some high school,standard,completed,employed,middle class
+525,female,group D,associate's degree,,none,employed,poor
+1849,male,group B,associate's degree,standard,completed,unemployed,middle class
+668,male,group D,associate's degree,free/reduced,none,unemployed,middle class
+1834,female,group D,high school,free/reduced,none,employed,middle class
+1420,female,group C,high school,standard,completed,employed,poor
+1212,male,group B,some high school,standard,none,employed,middle class
+1037,male,group D,bachelor's degree,standard,completed,employed,wealthy
+1717,male,group B,associate's degree,standard,completed,employed,poor
+934,male,group B,some college,standard,none,unemployed,middle class
+1424,male,group C,some high school,standard,completed,employed,poor
+159,male,group D,,free/reduced,none,unemployed,middle class
+775,female,group C,associate's degree,standard,none,employed,middle class
+175,male,group B,,standard,none,employed,wealthy
+384,female,group D,high school,,completed,employed,middle class
+273,male,group C,,free/reduced,completed,unemployed,middle class
+1564,female,group D,some college,standard,none,employed,poor
+192,female,group D,,standard,completed,employed,middle class
+904,male,group C,bachelor's degree,,completed,employed,poor
+1680,female,,high school,free/reduced,completed,employed,middle class
+27,male,,some college,,none,unemployed,middle class
+83,,group A,high school,standard,none,unemployed,middle class
+138,female,group D,,standard,none,employed,poor
+1056,male,group C,some high school,standard,completed,employed,wealthy
+1664,female,,high school,standard,none,employed,wealthy
+546,male,group B,associate's degree,,,,
+1448,male,group D,high school,standard,none,unemployed,middle class
+1610,male,,associate's degree,standard,,employed,poor
+1633,female,,high school,free/reduced,none,unemployed,middle class
+802,female,group D,associate's degree,free/reduced,completed,employed,middle class
+1508,female,group D,high school,standard,none,employed,middle class
+617,female,group C,some college,free/reduced,,employed,poor
+869,male,group C,some high school,standard,none,unemployed,middle class
+1844,female,group D,associate's degree,free/reduced,none,employed,middle class
+1876,female,group C,high school,free/reduced,completed,employed,middle class
+1965,male,group B,master's degree,free/reduced,completed,employed,poor
+47,male,,some college,standard,none,unemployed,middle class
+1920,female,group C,some high school,free/reduced,none,employed,middle class
+1449,male,group C,bachelor's degree,free/reduced,none,employed,middle class
+548,female,group C,some college,,,,
+1890,female,group B,high school,standard,none,employed,middle class
+118,,group A,some high school,free/reduced,none,unemployed,middle class
+1720,male,group B,some college,free/reduced,none,unemployed,middle class
